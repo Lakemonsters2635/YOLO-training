@@ -6,4 +6,5 @@ models/*
 .tmp
 .DS_Store
 datagenTraining/
-finalProduct/
+# uneditedObjects/ is not here because thats how i share photos of the game elements from my pc to the vision machine >:/
+# finalProduct/ is not here for the same reason
